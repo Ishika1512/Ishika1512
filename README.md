@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishika1512
+- 👋 Hi, I’m Ishika Choudhary 
 - 🌱 I’m currently acquiring the skills required to be a Data Scientist 
 - 📫 How to reach me raiishika15@gmail.com
 - 
